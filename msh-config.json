@@ -1,7 +1,7 @@
 {
   "Server": {
     "Folder": "{path/to/server/folder}",
-    "FileName": "{server.jar}",
+    "FileName": "server.jar",
     "Protocol": 756,
     "Version": "1.17.1"
   },
